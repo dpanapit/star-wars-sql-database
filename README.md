@@ -1,7 +1,4 @@
 # Star Wars Franchise Database
-PostgreSQL relational database of the Star Wars franchise (group project).
-
-# Star Wars Franchise Database
 
 A PostgreSQL relational database covering Star Wars films and television
 series, including actors, directors, studios, and box office finances.
