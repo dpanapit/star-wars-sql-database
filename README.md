@@ -1,4 +1,4 @@
-# star-wars-sql-database
+# Star Wars Franchise Database
 PostgreSQL relational database of the Star Wars franchise (group project).
 
 # Star Wars Franchise Database
